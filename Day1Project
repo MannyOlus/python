@@ -1,1 +1,50 @@
-Placeholder to store the scripts for test
+Variables
+
+
+
+character_name = "Tom"
+character_age = "50"
+is_male = False
+print("There once was a man named " + character_name + ", ")
+print("he was " + character_age + " years old.")
+
+character_name = "Mike"
+print("He really liked the name " + character_name + ", ")
+print("but didn't like being " + character_age + ".")
+
+
+
+Data types
+
+Strings
+Booleon - true or false
+
+
+
+Strings
+
+phrase = "Giraffe Academy"
+print(phrase + " is cool")
+
+
+Lowercase
+phrase = "Giraffe Academy"
+print(phrase. lower())
+
+
+
+To check if it is lowercase
+phrase = "Giraffe Academy"
+print(phrase.isupper())
+
+
+You can stack functions
+
+phrase = "Giraffe Academy"
+print(phrase.upper().isupper())
+
+
+Length
+
+phrase = "Giraffe Academy"
+print(len(phrase))
